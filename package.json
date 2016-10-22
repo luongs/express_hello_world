@@ -4,5 +4,8 @@
   "description": "Hello world for express",
   "main": "index.js",
   "author": "Seb L",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
